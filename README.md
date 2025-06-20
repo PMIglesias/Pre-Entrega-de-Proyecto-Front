@@ -35,9 +35,3 @@ Este proyecto es una página web de e-commerce diseñada para ser simple y acces
 - JavaScript (para el carrusel de reseñas)
 - Google Fonts
 - Formspree
-
-## Notas
-- Asegúrate de reemplazar los archivos multimedia en `assets/` con contenido real.
-- Para pruebas locales, usa un servidor como `Live Server` en VS Code.
-- La barra de búsqueda y el formulario de login son estáticos; requieren un backend para funcionalidad completa.
-- El carrusel de reseñas usa JavaScript simple; considera bibliotecas como Swiper.js para más opciones.
